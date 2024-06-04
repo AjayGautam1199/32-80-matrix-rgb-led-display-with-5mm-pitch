@@ -17,3 +17,6 @@ i will share all details soon.
 
 <img src ="https://github.com/AjayGautam1199/32-80-matrix-rgb-led-display-with-5mm-pitch/blob/main/Screenshot%20(82).png">
 
+# Final Assembled Board. 
+<img src ="https://github.com/AjayGautam1199/32-80-matrix-rgb-led-display-with-5mm-pitch/blob/main/1.jpg">
+<img src ="https://github.com/AjayGautam1199/32-80-matrix-rgb-led-display-with-5mm-pitch/blob/main/2.jpg">
